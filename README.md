@@ -9,4 +9,5 @@ The outcome of the code is as follows:
 ![pic-4](https://github.com/metti123/Digital-Logic/blob/master/4.png)
 
 <h3> 이름- 메티
+<h3> ID - 20191590
   
